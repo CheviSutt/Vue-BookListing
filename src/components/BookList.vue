@@ -6,7 +6,7 @@
 
 <script>
   export default {
-    name: 'BookList', // Name of Component
+    name: 'BookList',
     data() {
       return {
         title: "All Books"
