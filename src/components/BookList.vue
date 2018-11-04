@@ -9,7 +9,7 @@
     name: 'BookList', // Name of Component
     data() {
       return {
-        title: 'All Books'
+        title: "All Books"
       }
     }
   }
